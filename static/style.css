@@ -1,0 +1,20 @@
+.botones {
+     height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn1, .btn2 {
+      color: white;
+      padding: 60px 60px;
+      margin: 5px;
+      border: none;
+      cursor: pointer;
+}
+
+.btn1{
+    background-color: blueviolet;
+}
+.btn2{
+    background-color: chartreuse;
+}
